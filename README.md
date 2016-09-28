@@ -6,10 +6,13 @@ Change Log (Last upadted 9/27/16):
 
 Version 1.1.0
 
--Added Settings to streamline calculations 
--Small UI tweaks
--Removed unused Google advertising API
--Reduced App size
+Added Settings to streamline calculations 
+
+Small UI tweaks
+
+Removed unused Google advertising API
+
+Reduced App size
 
 
 Version 1.0.1
