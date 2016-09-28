@@ -6,7 +6,6 @@ Change Log (Last upadted 9/27/16):
 
 Version 1.1.0
 
-
 -Added Settings to streamline calculations 
 
 -Small UI tweaks
@@ -17,6 +16,7 @@ Version 1.1.0
 
 
 Version 1.0.1
+
 -Fixed major bug where app would not open for users
 
 
